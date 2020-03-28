@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string-array name="users">
+        <item>kudaibergen</item>
+        <item>dokerbol</item>
+        <item>baga</item>
+        <item>bula_black</item>
+        <item>bauka_99</item>
+        <item>aika</item>
+        <item>kunia</item>
+        <item>yelyadu</item>
+        <item>arman</item>
+        <item>bahosh</item>
+    </string-array>
+    <string-array name="description">
+        <item>aksdfjalksdjf</item>
+        <item>asdfasdf</item>
+        <item>asdfasdf</item>
+        <item>asdfasdf</item>
+        <item>adsfwef3gg</item>
+        <item>asdfasdf</item>
+        <item>23l;lfasdf</item>
+        <item>laksdfjladf</item>
+        <item>;alsdkf;wemf</item>
+        <item>laksdjflkasdjf</item>
+    </string-array>
+</resources>
